@@ -29,7 +29,6 @@ This is a website-based coffee cafe. I made this using native PHP with the Boots
 ![Screenshot (497)](https://github.com/user-attachments/assets/95ad47e9-8090-4b55-a4e9-cbd1c54b40b9)
 ![Screenshot (495)](https://github.com/user-attachments/assets/bbed31d8-8ef0-4e4a-874d-cf4e6c3bd61b)
 ![Screenshot (494)](https://github.com/user-attachments/assets/fd553e9c-fbb1-46fc-b0d5-d00e38e68d1b)
-![Screenshot (492)](https://github.com/user-attachments/assets/46af69a6-79c2-4f58-9f8a-356936e49f2f)
 
 
 
